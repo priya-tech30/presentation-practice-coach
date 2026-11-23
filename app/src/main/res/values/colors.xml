@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pc_background">#090612</color>
+    <color name="pc_surface">#151022</color>
+    <color name="pc_surface_light">#211735</color>
+    <color name="pc_surface_glow">#30204B</color>
+    <color name="pc_violet">#9B5CFF</color>
+    <color name="pc_violet_dark">#6F35C9</color>
+    <color name="pc_violet_light">#C48AFF</color>
+    <color name="pc_pink">#FF72B6</color>
+    <color name="pc_pink_light">#FF9DCE</color>
+    <color name="pc_cyan">#6EE7FF</color>
+    <color name="pc_mint">#72E5C1</color>
+    <color name="pc_gold">#FFD76A</color>
+    <color name="pc_text">#FFFFFF</color>
+    <color name="pc_text_secondary">#D3C5E5</color>
+    <color name="pc_text_muted">#9B8EAD</color>
+    <color name="pc_text_on_accent">#F8F0FF</color>
+    <color name="pc_success">#55D6A5</color>
+    <color name="pc_warning">#F6B84B</color>
+    <color name="pc_danger">#FF5C83</color>
+</resources>

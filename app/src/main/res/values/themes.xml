@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.Presentationcoach" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/pc_background</item>
+        <item name="android:navigationBarColor">@color/pc_background</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowBackground">@color/pc_background</item>
+        <item name="colorPrimary">@color/pc_violet</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#38205C</item>
+        <item name="colorOnPrimaryContainer">#F3E7FF</item>
+        <item name="colorSecondary">@color/pc_pink</item>
+        <item name="colorOnSecondary">#2B1020</item>
+        <item name="colorSecondaryContainer">#51243F</item>
+        <item name="colorOnSecondaryContainer">#FFE4F1</item>
+        <item name="colorTertiary">@color/pc_gold</item>
+        <item name="colorOnTertiary">#302100</item>
+        <item name="colorSurface">@color/pc_surface</item>
+        <item name="colorOnSurface">@color/pc_text</item>
+        <item name="colorSurfaceVariant">@color/pc_surface_light</item>
+        <item name="colorOnSurfaceVariant">@color/pc_text_secondary</item>
+        <item name="colorOutline">#59456F</item>
+        <item name="colorError">@color/pc_danger</item>
+        <item name="colorOnError">#FFFFFF</item>
+    </style>
+    <style name="Theme.Presentationcoach" parent="Base.Theme.Presentationcoach" />
+</resources>

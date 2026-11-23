@@ -1,0 +1,35 @@
+
+# Android / Gradle
+.gradle/
+.idea/
+build/
+**/build/
+local.properties
+*.iml
+.externalNativeBuild/
+.cxx/
+captures/
+*.apk
+*.aab
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+secrets/
+*service-account*.json
+*credentials*.json
+
+# Local test files
+backend/test_audio.m4a
+
+# OS files
+.DS_Store
+Thumbs.db
